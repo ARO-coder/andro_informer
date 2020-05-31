@@ -105,5 +105,7 @@ if b==15:
     os.system("termux-telephony-deviceinfo")
 if b==16:
     os.system("termux-camera-info")
-
+os.system(" cd")
+os.system("cd /data/data/com.termux/files/home/andro_informer")
+os.system("python ai.py")
 
